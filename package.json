@@ -1,0 +1,23 @@
+{
+  "name": "base-fe-module-bundler",
+  "version": "1.0.0",
+  "description": "Custom ES6 Module Bundler with Dependency Graph Resolution",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "test": "node test/runner.js",
+    "lint": "echo 'No linter configured yet'",
+    "build": "echo 'No build process needed for this library'"
+  },
+  "keywords": [
+    "es6",
+    "module",
+    "bundler",
+    "dependency",
+    "graph"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {}
+}
